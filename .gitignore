@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Tableau temporary / backup files
+*.twb~
+*.hyper~
+
+# editor junk
+.vscode/
