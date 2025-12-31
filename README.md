@@ -53,7 +53,7 @@ This project was built to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 flights_ontime_bts/
